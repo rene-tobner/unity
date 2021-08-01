@@ -1,0 +1,433 @@
+# INFO Maintaining/improving this file with others
+- work will be done with Gitlab software, awaiting neutral server and replicatable setup (it must be done safely, only relying on Github or similar services is not enough)
+- one mirror for now: https://gitlab.com/wissens-werker/construct
+  - not safe enough, too (replicated setup of maintainers, issues etc.), just for now to spread responsibility
+## INFO Why and how world-wide wished for things?
+The plan can be done (what else to fight for? if not order and leisure in the world), but...(this kind of transitioning is too hard to think of, I know, but I once wrote "this was the beginning of this century [and all experience before was only some beautiful or ugly disctruction/disorder and flourishing again], but what will be the end of this century be like, 2200 AD?"; making progress with order AND research [I very useful for research, fast communication])
+
+How to have a real world feedback loop NOT ONLY WITH ME?? Just in the internet/web. Anyone can voice issues via "issues". And, maintainers, ppl who try to weigh arguments to optimize the construction via world-wide-wished-things and decide what's in what's not, SHOULD BE MANY, having the principle of neutrality (reason, logic, cultural [gender] equality) in mind! (even if many more ppl having my SSH keys {digital cryptographic keys to manage this repository}, how to avoid edit war? [not speaking about the identity of the philosopher of reflection, but finding consent by objectivity, neutrality in our yet so fragile "community" -- optimizing everything, a very IMPERSONAL view: and it only makes sense this way if we think about managing humanity in general?)
+
+Github or other services are not enough -- everything should open source. Specialized domain and website will be available soon!
+
+Ppl in want of ending austerity, some political effort is necessary, but somehow it can be spread pretty easily, right?
+
+- It's so huge? But it's only this planet in the known universe. But reflection is everywhere, suns, solar systems, ...
+
+[[./img/yin-yang-tree.jpg]]
+(need to buy this at https://www.123rf.com/photo_94141168_stock-vector-yin-yang-tree.html)
+
+# INFO Philosophenköniginnen und -könige sind erwünscht
+- philo-sophy = loving-wisdom (die Weisheit lieben, aus Fehlern lernen, und darüber zu kommunizieren, über Fehler, ist so schwer, insbesondere in direkter Anrede, aber ein Text...)
+
+# TODO IN GENERAL: a functional state for functional citizens
+
+- world-wide poltical agenda: native sustainable workers of a sustainable capitalistic economy, i.e. not going bankrupt every 10-20 years or so
+  mixture of Amsterdam / Singapore / Luxemburg?
+
+  1. the end of all philosophy: ultimate wisdom reached: possibility to empower humans with reasonable thinking in every aspect (What is god? Who is our creator? Nevermind! It's about constructing...)
+     ? to have real functional humans:
+     - knowledge about reflection (e.g. human event machine, no god) => quick think w/o doubts
+       - empowering body and thought via natural means and a culture of cooperation (self-reflexive informing)
+         vs.
+         forming    body and thought via artificial means (passive information, not easy to embrace)
+     - autogenous training is necessary for mastery of body, full capacity of the mind
+       - can ppl stay reasonable? Depends on functional state including education and if not law enforcement
+
+     - die optmierte Welt ist zum Greifen nahe -- nicht zuletzt, weil die Menschen sich nun selbst optimieren können, nicht nur optimiert werden vom Bildungssystem etc. (Selbst-Reflexiv vs. Passiv)
+       - Körper -> Geist -> Kooperative Vernunft (construct) -> Gesellschaft in Ordnung und Muße
+
+     - die optmierte Welt ist zum Greifen nahe -- oder Korruption wird wieder in den Verfall, die Zerstörung führen
+       - to embrace cooperation slowly but decidedly (a smooth transition?!)
+  2. ending Corona/Covid somehow for having employment/trade again flourishing
+     - an alternative to austerity/exhaustion of capitalism, AND getting around the problem of lazy workers (literature in economics?)
+       - more shifts, more ppl in work, adequate salary: enough incentive for workers
+  3. better digital infrastructure for the state and work relations
+     - supply chain and employment optimization via digital infrastructure managed by scientists, employers (and unions? = employees might do it themselves now)
+       - maybe there even is some algorithm for optimizing all this?
+       - machine learning
+     - blockchain for the world to inspect and control economic differences of the nations and to finally have some good grasp on managing volatility of markets
+     - fiber/5G everywhere
+     - ...
+  4. investment into weaker countries (via WTO etc.)
+     - countries delivering workers to some other country (e.g. Poland to Germany)
+  5. just go on as usual with foreign work force, but some betterment of salary for all
+     - workers who feel the urge to return in their home countries should have enough incentive to do so (by 1.)
+  6. refugees/oppressed -- for too much pressure on Europe
+     - strong countries (esp. USA) need to give some more freedom to weaker ones
+       - nationstates for Palestines and Kurds?
+         - Israel and Turkey can arrange for that in due time?
+       - end of conflict esp. in Syria, Yemen via additional troups (more investment in United Nations army, NATO needs to be more neutral)
+         - Mr. Assad has some good command?!
+           - Israel's and Saudi-Arabia's security vs. peace in the middle east
+             - what's the damn long term perspective with here? (also keeping in mind other means of fueling our cars, house, and other machiney? def. not only oil, but green energy; the demise of the planet...)
+         - Yemen as neutral as possible (w/o Saudi-Arabia having too much to say)
+       - other peoples under distress
+         - ex-Jugoslavia: maybe reunion possible?
+         - Krim? Should be ok to stay with Russia (just to have at least this thing clear?!)
+# WAT?! peace of mind & health & security
+## WAITING unhealthy nourishment w/o an adequate health practice
+- gluten is very prone to produce head muscle sclerosis (Muskelverkalkung)
+  - BUT: Rinsing/Durchspülen is the remedy to various forms of sclerosis in general
+    - head first rinsing by sitting and lying down, walking it in, have trust in swing: to train this practice...
+# INFO public infrastructure vs. private business / both necessary
+- freedom of browsers vs. monetization
+  - via ads (adblockers pain in the ass for enterprises promoting some product)
+  - media -> drm? (digital rights management)
+- Mr. Stallmann, Mr. Torvalds vs. many entrepreneurs
+  - all the licences
+  - to find a way for the free market
+It's better when it's free. Regarding sex def., but still ppl want to have a product to sell...
+private vs. public tools production [economy/Ökonomie]
+# INFO functionally employing ppl vs. automatization/robotics (pretty much [far] away future)
+- regular workers vs. functional workers by reason (how much laziness is an issue?)
+- more shifts, more ppl in work, 12 EUR proposal (in Germany by SPD) as minimum wage already means a lot, but with more shifts and less hours it's very probably not enough
+  - time employment agencies really do not help
+    - flexible employment of workers without temp agencies?
+- what is behind the scenes:
+  - we need a means to exchange goods
+    - money with inner worth : Bitcoin (a new gold standard)
+    - fiat money (since gold standard was abandoned -- Bretton Woods):
+      - any regular national currency on this planet
+      - creation ex nihilo since Bretton Woods ever more
+    - the "play" about the money must continue to have day to day trust in our future / to sustain ourselves with goods (Waren: Haus, Auto, Lebensmittel)
+- good parenting should be possible (time for job vs. time for family)
+# INFO sex work
+- something to begin regulating
+  - needs aids prevention!
+
+# INFO crime / "slave" businesses / reeducation / how to educate anyway and about what?
+Just a reminder of corruption in society (Menschenhandel, human trafficking, corruption of police -- all this is possible in dark corners of society)
+
+HOLDING ON TO THIS PRINCIPLE (related to not endangering free will):
+
+- Die Freiheit eines andern nicht gefährden? // Not endangering the freedom of someone else?
+
+  - Kriegen wir das (gemeinsam) irgendwann hin? Wann wird dieser Tag sein? // Can we get that done in our shared reality/time some day? When is this day???
+## insurance of life / Lebensversicherung
+- de: Aufweis gefährlicher Arbeit, Sport? (wofür sonst braucht man eine Lebensversicherung?) sollte erbracht werden, andererseits könnte so eine Versicherung ausgenutzt werden
+- en: proof of endangerment while working, sport activity (what else use case here?), otherwise only harmful to the insured one because others want to profit
+## child porn? 
+# TODO unemployment management / guarding against poverty / smooth economy
+- banks have a duty to uphold real econmy (among other things)
+  - bitcoin may be a gold standard (it is by technical means and also by ppl having trust in it, but will others allow it?), but distribution of wealth and stability might be at odds sometimes
+- parity with employed workers regarding Christmas bonus (end-of-year bonus)
+- auf der Schwelle zum neuen Jahr, Konjunktur ankurbeln (to reflate the market at the doorstep to the new year)
+- Why Zeitarbeitsfirmen if unemployment agency can deal with it?
+## GER: unnecessary split between Job Center and Bundesagentur für Arbeit?!
+- could be managed in one go, only one database managing ppl out of work
+## WORKING HOURS
+### example
+- ALDI had a poll extending opening times LIDL-like (until 22pm) and ALDI workers denied this (stayed with 20pm)
+- Another solution might be more working shifts.
+# TODO reform health system world-wide / as efficient as possible
+- Rinsing/Durchspülen already standard...
+  - coffee vs. ginger-citrus-tea (wie hibbelig macht Kaffee + Dehydrierung zu stark!!!)
+- my body, my choice -- completely at odds with prostitution (free or unfree), abortion denial (Poland)
+- this should explain betterment of ppl
+- get rid of COBOL (an about 61 year old PL)?
+  - https://logicmag.io/care/built-to-last/
+    - "IBM’s latest, fastest “Z” series of mainframes have COBOL support as a key feature"
+  - COBOLs reads pretty much like natural language, BUT STILL:
+    - HOW MANY MANAGERS (NON-PROGRAMMERS) HAVE A LOOK AT COBOL CODE?
+    - issues of code correctness, way less type safety
+  - transpiling if necessary... (i.e. Haskell DSL to COBOL)
+- making functional ppl exposing alignment and awakening in privacy (real alignment impossible w/o this kind of autogenous training)
+- aligning by dancing (cf. China, Wuhan experiment)
+- coffee shops in order to be able to lear about your body in privacy (being your own doctor)
+- alcohol (and other drugs) and miscarried fetus or resulting disabilities
+## exploring bestform of humans in privacy (focus/awareness on/of the body [rinsing, autogenous, autogenic training; underpressure: press other side of pain/dry spot first], automatic healing by satisfaction [food, THC, music, sleep, symmetric training])
+- die Reflexion eines anderen Beobachters und die Ablenkung von der körperlichen Reaktion des Stromes in einem... 
+- der Natur wieder zu vertrauen, was kann das heißen?
+- Was ist der Mensch? Was ist die Intelligenz eines Menschen?
+  - Intelligenz vs. Wissen? [Event-Machine]
+- We are so tightly bound by our social context, that it's really hard to find one's self.
+  - to alleviate/mitigate/ease (ger. /lindern/) relationship-stress (you might experience) being alone at least once in your life is advised
+    - for we are so much entangled in our day to day culture, confusing words, confusing opinions, it is so hard to be really alone
+  - concentrate on your health, your own nature only
+  - achieve relaxed best form of body and mind (mind = only reflection as attraction or detraction to concepts you have internalized)
+  - being more relaxed in any kind of relationship, be it just for pleasure or parenting
+- We are so tightly bound by confusing concepts, that it's really hard to find one's self.
+  - Does god exists? If not or unlikely, what remains of all this misery?
+### feeling your body / autogenic training
+- feeling pain and pressing the other side
+### evolutionary big picture (social intelligence) vs. your own life
+- seeing oneself as a result of evolution, random development of animals on earth with humans as a kind of animal developing very sophisticated languages, instead of being only your biographical record of family, friends, and foes
+  - Isn't this redemption for free?
+  - Is this enough to deal with bad conscience? E.g. murder?
+- how did humanity and its intelligence evolve on this planet?
+  - just communication about interesting phaenomena, e.g. the first man made fire using a flintstone replicating the fire cast by thunderbolt on some dry wood (maybe even your own humble hud?)
+  - but still a flintstone able to reproduce the power of nature
+  - i.e. something interesting to talk about
+  - interesting first words to speak about
+  - our intelligence/knowledge is just the result of social interaction (knowledge not communicated is lost knowledge)
+### social principle
+- TODO cf. Cooperative construction
+
+## DONE ? abortion via mechanical means (sterilized needle)
+- if no pill needed, such big win...
+- condoms vs. HIV (like always)
+## body cleaning / Körperpflege
+### penis
+- only water, no soap at all VS. some sensitive body showergel to have a little of good scent and cleaning effect
+## INFO China proud again (Wuhan: so much progress)
+## RÜCKFRAGE How much cancer is related to psychic condition? (being fearful about becoming ill?)
+- natural relegion helps to eradicte this fear completely
+# TODO e-government / efficient bureaucracy
+- identity management: must be done right finally:
+  - Sovrin (pretty stable and in use)
+  - OCaml black box project?
+- really easy to create a company (cf. England's SME [small-medium-enterprises], Germany's Ich-AG)
+  - easier paperwork
+  - having skilled ppl (England: north-south-gap)
+  - cf. theconversation.com SME bedrock british econommy, gov.uk Local Industrial Strategies (2018)
+- e-government tooling from Estonia, Sweden!!! (so much Open/Free Software available already)
+# @WORK more (green) energy
+## solar power from Africa or even souther Europe
+- Australia is delivering sun energy to Singapore by 2027 (Sun Cable)
+  - direct current submarine cable tech
+- too much political trouble in Norther Africa right now, but South Europe?
+- Sub-Sahara (Kenia, Namibia?) has even better sun power than Northern Africa
+  - some sun panels already there, but lacking infrastructure (bringing it to the ppl)
+## progess with fusion reactors?
+- arirang.com
+## hydrogen energy for factories and trucks / not that good for (personal) cars?
+# @WORK economics
+## banks embracing crypto currencies
+- wealth tax on crypto currencies is necessary in order to embrace this technology legally
+## INFO kybernetics/supply chain optimization with free market of course
+es muss immer IRGENDWAS ausgehandelt werden in den einzelnen Märkten, in Staaten, in Unternehmen (Lohn, Arbeitszeiten, value of a currency)
+Sachen, die nicht ausgehandelt werden müssen:
+Urlaub (ja der Staat macht das einfach! gesetzl. Regelungen..)
+
+
+- in general: new digital infrastructure for everyone:
+  - Cardano: too much trust in math for now? (but research recommended: machine learning and self-amending [no human decision involved] algorithm + programming language RESEARCH [dealing with unknown: dependent types])
+  - Tezos for governance (self-amendable [humans need to decide] protocoll and OCaml compiler optimizations are recommended
+    - optimum/gold standard: to rely as much as possible on automatism (no human decision making involved), but have manual escape hatch at hand to deal with problems (tezos)
+      - so,
+        - optimizing tezos (regarding employer-employee relations and state-citizen interactions [taxes etc.], and inter-state negotiations [trade embargos etc.] = these negotiations = some kind of communication; smooth communication is progress [think: what internet did achieve!] => so by doing this global ledger, net of nets thing, success should be inevitable!)
+      - while
+        - doing RESEARCH (also this Kantorovich area of research??!!!!) is recommended
+      - tricks ready vs. tricks in the long run
+
+Schritt für Schritt Abstimmung in diesen Märkten / Tezos Blockchain und die Protokollaushandlung
+EIN NETZ VON NETZEN / einzelne Unternehmen bis hin zur globalen Weltwirtschaft
+jeder ist irgendwo Teil eines Netzes
+die einzelnen Netzen versuchen von zentraler Stelle aus zu optimieren, aber Verhandlungen auch innerhalb der einzelnen Netze
+Firmen haben Macht über ihre eigene Verwaltung (Blockchain etc. in Firma, daher schwierig dort jetzt auch überall Tezos zu etablieren) -- Zahlen aber zur Wirtschaftskontrolle nach außen liefern..
+Öffentliche Hand sollte aber mal alles mit Tezos machen ; hier die Aushandlung zwischen Arbeitgeber und Arbeitnehmer perfekt machen (als Demonstration auch für die freie Wirtschaft)
+Aushandlung sollte abgebildet werden in der Datenstruktur; andernfalls eine systemische Schwäche, die uns spätestens seit der Industrialisierung zu schaffen macht (Arbeitgeber overpowering Arbeitnehmer until Arbeitnehmer storm the factory, and rinse and repeat)
+Wir können einfach nicht diesen Fehler immer wieder machen, so viele Neutrale/Unparteiische, die dieses Problem sehen. Und wie überhaupt nochmal neu anfangen, wenn nicht mit der richtigen Architektur...
+Politik gibt's ja auch noch für die Unternehmen... Wirtschaftsregulation
+
+irgendwie muss Leistung belohnt werden ;
+Meritokratie und Technokratie hand in hand
+
+## TODO complexity of free market economics vs. avoiding two class society via better (inter-)national planning
+- not endangering free will: not obstructing free market actors
+  - alignment will help a lot / also real police possible (way more complicated to have crime at all!)
+  - better digital infrastructure to negotiate trade matter will help a lot
+- https://de.wikipedia.org/wiki/Einzelhandel
+  - necessary distinction?: small businesses (meat, bread) vs. monopolies (LIDL)
+  - what else will change?
+    - https://www.pressebox.de/pressemitteilung/autostore-system-gmbh/AutoStore-stellt-Innovation-Hub-zum-Testen-und-Replizieren-von-Supply-Chain-Umgebungen-vor/boxid/1049930
+    - but: the regional vs. international trade
+## TODO to have ONE OPEN SOURCE PRODUCT ready for markets in companies and state economy planning? covering all the use cases?
+## TODO each country having control over its currency's value
+- to only rely on Bitcoin/btc is too much?!
+- currently Europe's Euro model just sharpens economic imbalances between member states, for weak economic power of one country cannot be balanced by decreasing one state's own currency value
+  - maybe it still makes sense to keep Euro, for each country euro country managed on blockchain weights can be applied???
+    - also some trust in each countrie's currency? and still only digital? printing money and minting coins too much of a hassle?!
+    - still getting rid of paper money like in Singapore and China seems to be worthwhile
+    - a common ledger -- different currencies to level differences in economic power
+- some experts to consult: Yannis Varoufakis, Alexis Tsipras, Kyriakos Mitsotakis, Giorgos Papandreou (Athens), James Galbraith (Texas)
+  - A modest proposal for solving the Eurozone Crisis, Version 4.0
+## Internet of things @ blockchain + 5G fast everywhere could be really helpful
+- huge quarrel between USA and China
+  - mostly about market share?
+  - but also espionage (more open source could help here) or only red herring argument?
+- can't we have 5g open source infrastructure (have to look up what's it about)
+  - China/Huawei is already principal planner in ITU (Internat. Telecomm. Union)
+## TODO consensus algorithms
+- having a copy of sth. uniquely produced, those receiving the copy can make consensus
+- cf. zero knowledge proof
+## business management for everyone; connection to blockchain
+- SAP: more blockchain in Enterprise-Resource-Planning for the plan
+  - makes really sense with this huge market share!!!
+- open source candidate?
+## more local production to avoid mono cultures, having more organic food
+- maybe more ppl like to work in agriculture again?
+- happy farmers
+- less feeding the world
+- how much meat is necessary? still (organic) meat nice to have!
+## ethereum
+- can wrap tezos
+## tezos!
+## cardano?
+## PL design
+- object oriented method invocation: having an object and acting on it, but where does this object come from? Certainly from some function. Programmers are very much used to postfix method invocation, but how beautiful is Haskell and how usable can it be, if faster, smaller binaries, and last but not least really helpful type error descriptions?
+- CONCRETE THINKING about your program (data structure inspection via debugger) VS. ABSTRACT THINKING about your program (type system error messages at compile have no concrete info about the transformations on your data structures available)
+  - typed FP is very much relying on abstract thinking, to allow debugging of not compiling programmes (understanding type errors [and how insightful can they get, without concrete data structures to inspect?]) might be helpful to get people jump on the train?
+
+## Kantorovich/linear programming
+- https://chris-said.io/2016/05/11/optimizing-things-in-the-ussr/
+- There are hierarchical levels to the "economy" and central planning may work well at some levels. Companies at the lower levels of the hiearchy are centrally planned entities with managers assigning tasks to employees instead of using a free market to distribute them within the organization. At the middle layer, the free market links these centrally planned companies and force them to compete. It's an open question whether having a centrally planned top layer to handle national economic strategy and steer market forces is better than letting the free market handle that as well.
+
+## TODO async class/module setup (load some data) on init
+- via IEFE (immediately executing function expression)? (Why to have a name for this?)
+- in current accepted industry standards (node.js, libuv): non-blocking behaviour would be expected
+- anyway: Ocaml and maybe blocking? execeptions (also in the type system), to be practical here
+
+## TODO linear types and prototype objects
+- on a blockchain
+- dynamic and type-safe programming?!
+  - linear types for efficient memory allocation!!!!
+  - for mixins in OO?!
+- dashes, greater-than in function names (works with QWERTY, too! :-) )
+- a concatenative language is a functional one and trivial to run efficiently
+  - evincarofautumn.blogspot.com/2012/02/why-concatenative-programming-matters.html
+  - like Factor/Joy; function composition by default (not dot operator like in Haskell)
+ 
+## INFO various enterprises experimenting w/ hyperledger (permissioned blockchain)
+- ALDI, LIDL und Schwartz
+- interfaces/Schnittstellen
+# WAT?! internet capable to deal with ever more traffic?
+- Zoom et al. in Corona times def. a stress test
+- state of the art of internet backbone? Huawei vs. Juniper (autonomous/self-driving networks?)
+- related: how good connection bandwidth? fiber to the home investment!!
+
+# education/research
+
+## Rethinking knowledge according to the /Principle of Reflection/
+- see: [[abstract-core-of-societies-in-general-nat-religion.org]]
+## AI
+- having two worlds makes research stupid, combining knowledge would finally be advised
+  - [[https://www.ft.com/content/1ff66eb9-166f-4082-958f-debe84e92e9e][What separates humans from AI? It’s doubt]]
+    - How they have to examine ppl is totally ridiculous!
+    - RIP: Dan Kaminsky
+    - to doubt and the possibility of AI: computational evaluation strategy: laziness = to doubt = withhold judgement = Isosthenie
+      - Grammatical Framework is evaluating like its host language Haskell lazily (non-strict)
+        - nat. lang. and AI: exploring things here?
+
+## digital classroom
+- HPI Schul-cloud and other solutions? 
+## TODO sexual education
+### INFO guarding against sexually transmitted disease (STD) only possible via condoms
+### DONE sexual preference by training / metrosexuality as general assumption
+[edit] natural standard: heterosexuality vs. cultural standard of assuming metrosexuality
+- sexual preference is mostly established by being trained in social context
+- however nature can play a crucial role, too: see hermaphrodites (ppl'sex naturally transforming to the other gender over the course of their life)
+  - being gay or lesbian is just by training? 
+  - experience about this training related some voices of the queer community
+  - shaming plays big role when ppl are trained on each other
+    - peer pressure about having first intercourse leads to finding a mate as fast as possible ("Did you already pop the cherry?")
+      - first intercourse with cousins or even among siblings also not uncommon
+
+  - hetero sexuality seems to be the NATURAL STANDARD (there are exceptions like having neutral or both sexes in members of a species?)
+  - the CULTURAL assumption of sexual preference should be metrosexuality for if you know sex preference is by random and trained, why not decide for yourself whom to fuck!
+
+  - metrosexuality is the new standard perspective regarding gender preference! metrosexuality = metropolitan sexuality = in big cities more freedom of choice regarding preference of gender of your sexual partners developed first, so just for the lack of a better term for this behaviour, "metrosexuality" still applies universally, although we know the term itself referencing only big/capital cities is plainly wrong (relying on etymology for explaining specific terms might be daunting...)
+  - standard of metrosexuality does not imply paedophilia (endangering the free will of the child is a bad practice, again endangering future relationships of the child TODO)
+
+#### WAT?! run for mates: some make it, some don't, and how stressful is it to keep up with this relationship?
+- run for mates and how much stress is involved in this relationship
+  - How much stress does there need to be?
+  - again easy, but more or less oppressive relationships might be the result
+    - less (maybe next to nothing): "paedophilia" (teacher-student, student not underage): also beneficial for career/learning
+      - anyway: can be exploited
+    - more: forced prostitution
+- health/power of women:
+  - women can feel their body again better with selfsex and w/o taking "their" pill, many really have discovered the joy of sex since like never before (of course it was possible to have enough exposure to sex before, but how many men were necessary for this, and was the woman in case respectable???? )
+  - many women got used to faking orgasms, but this is mostly a thing of the past, for if you can enjoy your own body via selfsex, why wouldn't you expect it with your partner?
+- health/power of men:
+  - impossible w/o sexual activity
+  - in youth being attracted to women more or less early (just to cover the dominant perspective of heteros, which seems to concur with sex preference of mammals [and others animals?] in nature)
+  - some make it to the women and have good experience, can go on like this
+  - some don't make it and feel insecure compared to the successful men
+    - IF you don't make it, well... :
+      - former times: just inadequate/unpractical methods (even pocket pussy is not enough)
+      - modern times: selfsex via cushion and condom as perfect simulation of sex with a partner (remember the term pillow humping? look up pillow humping and see what porn will show up, and really doing it w/o condome will probably hurt you...)
+    - OR ELSE
+      - you may consider your mate to be of the same sex as you (the homo erotic case)
+        - being gay is one possible outcome of this /run for mates/, in earlier times the probability of this outcome was very low, for the taboo about gayness was strictly punished in society; nowadays metropolitan life increased the likelihood
+        - as of today, ppl "opting" in to being gay, cannot easily get out of this training (and if you KNOW, your preference is trained in /run for mates/, you ARE able to decide whom to have pleasure with [standard of metrosexuality])
+        - the human being vs. the animals
+        - rich language vs. rudimentary language (Erdmännchen e.g.)
+        - cultur vs. nature
+        - not only reproduction, cultural pleasure vs. surviving
+          - our life is not only about reproducing offsprings, it should be a pleasure with whom you have sex
+        - using our hands to build things vs. using your claws to get meat in case you're a carnivore
+
+      - [perversities] even more possibilities here which also involve cruelty to get sex, endangering the free will of partner(s), and usually produce legal repercussions
+
+  - also like with animals in nature: can they make it to their females and satisfy their own nature? = life's trick on us to produce new life (the animal kingdom vs. our human kingdom: we made up tricks to cheat on nature by contraceptives (condoms, the pill etc.) anyway
+
+### RÜCKFRAGE gender differences
+#### female
+- clitoris :: The antomist Mateo Renaldo Colombo (1516-1559), professor at Padua, claimed to have discovered it ("/De re anatomica/",[unsic!] 1559, p. 243). He called it /amor Venris, vel dulcedo/ "the love or sweetness of Venus.[sic?!]" It had been know earlier to women. (That's just another claim, of horse! :-) )
+### INFO gender equality
+- gist: How much exertion of control over the loved object/person is necessary? As few as possible, in order to preserve freedom. (maybe it's possible to express uneasiness about choice of dress, just some expression of doubting, thinking, envy (somewhat positive envy: as a token of you being bound to your mate via attraction, what can of course exploited by others, the fear of your mate being lured into unfaithfulness; this is just hard to get rid off with an attractive mate...)
+
+### WAT?! selfsex
+
+- my body, my choice! (see health system), cushion-condom, dildo
+
+Nonetheless, the human being can only really find oneself in the social realm. Without social contact, what includes sexual intercourse, we never would have survived in the first place.
+
+- for we are so much entangled in our day to day culture, confusing words, confusing opinions, it is so hard to be really alone
+- concentrate on your health, your own nature only
+- achieve relaxed best form of body and mind (mind = only reflection as attraction or detraction to concepts you have internalized)
+- being more relaxed in any kind of relationship, be it just for pleasure or parenting
+- solution to burden of interpersonal shaming because of having interpersonal sex or not is one instance of group based human hatred (hatred and shaming are very much related)
+
+### sexual perversions
+
+#### paedophilia
+- paedophilia in families = incest
+- literally: kin-lying
+- examples showing how hard it is to refrain from sexual contact, esp. when you're already so close to someone as in family relations, also dissatisfaction with actual partner plays a major role:
+  - parents break up (one possibly moves out), one of the parents trys to console child might end in sexual activity (why not with his partner, i.e. wife/husband ?)
+  - (step-)fathers engaging with children (why not with his partner, i.e. wife/husband ?)
+- to avoid: having stable partnerships, also:
+  - self-sex (cushion-condom, dildo): why force anyone to have sex with you if you can do it and (potentially) enjoy it way more -> ruling out paedophilia (endangering the freedom (biographical free will) of the child)
+# @WORK clash of cultures vs. integration of cultures / cultural religions vs. one natural religion
+- lambda the ultimate referencing lambda calculus (the basics of natural computation): therein the identity function (f(x) = x) is the reflection of some event, some thought in our human event machine; one needs simplicity to do complex things
+  - therefore it's actually this order reflection, symmetry, not the other way around
+  - I had to THINK about my symmetry to understand underpressure to get alignment
+  - I am not the philosopher of symmetry but of reflection...
+  - now gaining symmetry was crucial for the Bechterev to make finally progress and I know violence rained
+  - anyhow a new binding/re-ligion (back or re-binding)  for humanity only makes sense with lambda the ultimate / human event machine
+  - to survive as thinking hub, how else to do it? I needed to know how simple I am...
+- natural big picture (evolution) vs. cultural big picture (natural religion, reasonable politics)
+- not easy to make integration happen with all the different emerged aspects of cultural life, among these religion is a major obstruction for integration
+- journals mocking religions might be either
+  - a useful act of criticism exposing defects of religions as in:
+    - preachers of hate boosting inter-religious, inter-cultural war ideas ("we are the oppressed, we need to defend, so please go to training camp in middle east and learn to fight!")
+    - rather unreflected sex education in the light of 21st century/secularization/gender thinking)
+  - really making the sitation worse and hardening the frontiers as in
+    - Charlie Hebdo bombing, thereupon world stands united with "civilization/reason", but still neglecting integration
+- but the real problem: cultural religions themselves because they rely on:
+  - some prophet X and his interpreters making up rules for all
+- so, is there a natural religion we all could consent to?
+  - yes, we only need to know about the origin of our species and abstract (get rid) whereby of all cultural distinctions
+  - this is possible by thinking about our:
+    - random evolution on this planet
+    - evolved social intelligence as opposed to only personal intelligence (what you know is just trained into you by society, but still you very much know your own history. Just both would be important to have this natural religion.)
+    - What's in your mind anyway?
+      - if there is nothing to be afraid of in your mind nor to hope for (no devil/no god), what's actually going on in the mind, what can we rely on? Just reflecting the world and building concepts in our mind in order to have an effect on the world, to survive, to reproduce, to engage with others, to learn words from others to share them again with others, to build communities, to destroy others, i.e. to mediate, to fight... and now we are here in the 21st century. big picture of evolution vs. personal biography of family, friends, foes
+      - to see that you're nothing else than an animal which has with other animals developed interesting words to speak about (social intelligence instead of this rather personal notion we acquire)
+      - personal intelligence emerges out of social intelligence/communication (flintstone making fire, something really interesting to talk about?!)
+      - to find out about the cultivation of intelligence happens exactly one time on any planet in the universe exhibiting life forms (assuming the life forms will not go extinct by some interior/exterior misfortune [war/meteor-shower])
+
+# TODO pension planning:
+    - why necessary to have ppl plan so much for themselves about retirement? Why can't the state effectively provide this service?
+    - better family structures to provide for elderly?
+      - might be difficult but retirement homes are quite a horror most of the time...
+        - family schemes of Italy might be a good example here?!
+# TODO reforming law
+- just new law written in English
+- too much: Grammatical Framework / Raanta
+  - have one abstract formulation for a law and have multiple representations in different languages all abiding this abstract one
+  - a programming language (PL) to describe natural language(s) to have a precise formulation which can be used at court
+  - this PL based on lambda calculus and is dependently typed, which means it's very expressive and consitency of laws is machine checkable
+  - there really some effort to encode all this (also for the different nat. languages), but the key point is still to have consistency (hopefully less lawyers / law bureaucracy needed to manage laws)
