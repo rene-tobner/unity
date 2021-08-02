@@ -1,0 +1,67 @@
+René Tobner, Philosoph der Reflexion
+
+englische Version: [](Readme.md)
+
+# Die Welt vereinen und administrieren durch eine natürliche/logische Religion
+
+Zusammenfassung/abstract
+
+Keine andere Re-ligion (wörtl.: "Rück-bindung" [eine etymologische Analyse des Wortes /Religion/]) ist notwendig für eine Gesellschaft, als eine solche die auf vernünftigen Prinzipien und Denken fußt:
+- die natürlichen Prinzipien Reflektion und Symmetrie sowie
+- ein kulturelles Prinzip, die kooperative Konstruktion mittels eines Textes (zu viele zentrale Autoritäten, besser eine zentrale Autorität [too many central authorities -> one central authority {1CA}])
+
+Die Religionen, die sich im Laufe der menschlichen Entwicklung auf diesem Planeten herausgebildet haben, kommen nicht ohne die oben genannten Prinzipien aus. Die Anhänger jener Religionen:
+1. denken nach, d.h. reflektieren, über die Welt (unser Denken: eine Instanz, ein Beispiel in dem die Reflektion sich zeigt)
+2. sie suchen nach ästhetischer Schönheit (Pracht der Gotteshäuser, Symmetrie eines Kirchenschiffes), aber auch nach schönen, im Sinne von guten Taten (hier lässt sich die Symmetrie verorten[1])
+3. sie versuchen einen Text, ein Buch zu schreiben, das den Kern ihrer Religion darstellt.
+
+[1] Scheint vielleicht etwas weit hergeholt, dieses Argument, aber wer sucht denn nicht nach Schönheit? Ein Beispiel für die notwendige Assoziation von Schönheit mit Symmetrie ist die Lehre der Zeichenkunst über Proportionen und Geometrien des menschlichen Gesichts, des menschlichen Körpers. Gute Taten und gegenseitiger Respekt/Reziprozität von Bürgern lässt auch Charakteristika der Symmetrie vermuten.
+
+Einen abstrakten Kern einer jeden menschlichen Religion herauszustellen ist unser Ziel hier, um wiederum eine Besserung hinsichtlich Bildung und Weltadministration zu erlangen. (Respekt für jede herausgebildete menschliche Religion sei unumwunden zugestanden, jedoch bleibt der Fakt, dass verschiedene Menschen mit verschiedenen Glaubenstraditionen kein guter Start für ein Nachdenken über die Einheit der Menscheit ist -- auch wenn das Potential der Toleranz in vielen Religionen stark ausgeprägt ist.)
+
+Im folgenden werden die Prinzipien Reflexion, Symmetrie und Kooperative Konstruktion präzisiert.
+
+## Natürliche Prinzipien
+Man vergleiche auch die Reflexivität sowie Symmetrie, die sich in mathematischen [Äquivalenzrelationen](https://en.wikipedia.org/wiki/Equivalence_relation) wiederfinden. Mathematik ist natürlich!
+
+### 1. Der Geist (unser neuronales Netz im Gehirn) und seine Reflektion (TODO: siehe auch unten: menschliche Ereignismaschine)
+
+- Reflexion als *erstes* Prinzip des Universums (in uns: ein Gedanke in unserem Denkapparat wird gedacht, die menschliche Ereignismaschine, aktiv und passiv, Urteile und äußere Perzeption/Wahrnehmung respektive; in der Physik: das Doppelspalt-Experiment und eine reflektierender Beobachter; die Sonne und die Reflexion der Objekte auf ihre Lichtwirkung: unterschiedliche Farben verschiedener Objekte in unserer Wahrnehmung)
+  - die Bildung von hier aus zu entfalten:
+    - WAS KANN DAS BEDEUTEN?
+      - Wieviel simpler wird Bildung mit dem Wissen, dass Mathematik und Logik sich aus unserer Kapazität der Reflexion ergeben? (Reflexion ist gleich der Identitäts-Funkton im Lambda-Kalkulus; Lambda-Kalkulus kann Mathematik [Ursprung im Zählen: Y-Kombinator -> Rekursion -> Peano-Zahlen -> das Zählen allgmein gefasst -> Addition/Subtraktion etc.] und Logik encodieren)
+        - Das wird sich noch herausstellen, aber jene an den Universitäten, deren Aufgabe die Ausbildung von Lehrern ist, sollten weitaus weniger in Erklärungsnöte geraten. Alles beginnt mit der Reflexion, ob nun Natur- oder Geisteswissenschaft!
+        - WENIGER VERWIRRUNG IM HERZEN DER BILDUNG
+- ZIELEN mit dem Geist auf X (Analogie: so wie man mit den Augen etwas fokussiert, so fokussiert/zielt auch der Geist)
+- die Identität im Geist zu haben per Denken oder per Wahrnehmung: f(x) = x; + ein URTEIL (ist es es wert, fortwährend auf X zu zielen? Oder: im Geiste bei X zu verweilen, weitere Urteile dazu zu bilden, ist es ein valides Faktum?)
+  -       Ist X attraktiv? Ok, dann mal los, ich will dieses schöne Ding, diesen Gedanken, dieser Person etc.
+  - Oder: Ist X ein valides Faktum, dass Sinn macht mit anderen Fakten, die ich gesammelt habe in meinem Gedächtnis?
+    - Ja, super gemacht Hirn! (Schönheit,    kein Zweifel)
+    - Nein? Verwirrung!       (Hässlichkeit,      Zweifel)
+
+### 2. Der Körper in Symmetrie
+Das auf die Reflexion folgende, kompliziertere Prinzip, das ist die Symmetrie, ebenfalls beobachtbar in vielen natürlichen Phänomenen. (Zum Beispiel: Schneeflocken unter dem Mikroskop, Tiere and ihre Körper-Symmetrie)
+- die Bestform von Tieren im Allgemeine bedeutet vollkommen symmetrisch zu sein
+  - nicht-menschliche Tiere sind meistens weitaus agiler als menschliche Tiere (Agilität von Katzen z.B.); Muskelaktivierung im Vierfüßlergang vs. der aufrechte Gang der Menschen
+- Symmetrie einüben: dieselbe Übung mit beiden Seiten (Händen, Füßen etc.)
+
+## Kulturelles Prinzip
+
+### 3. Kooperative Konstruktion in einer zentralen Autorität (one central authority = 1CA)
+
+Welche Prinzipien können uns zur Verfügung stehen, während wir zusammen leben/arbeiten etc.? /Natürliche/ Prinzipien, wie jene oben, sind unmöglich anzuwenden; wir sind im Reiche der /Kultur/, wir müssen dies irgendwie regieren.
+
+Was ist die beste Art es zu regieren?
+
+Unsere Welt ist so kompliziert geworden, so viele aufstrebende Nationen, so viele Versuche Sinn zu stiften hinsichtlich der Charaktere und Meinungen der Menschen... (es geht nicht nur um Religionen -- all die Sinnstiftungsmittel, die uns erreichen: Eltern, Freunde, Schule, Literatur, Medien...)
+
+Man braucht Einfachheit/Simplizität, um Komplexität zu meistern. Software Architekten verlassen sich auf *EIN* Datenmodell im Hintergrund, um komplexe graphischer Benutzeroberflächen zu verlässlich zu programmieren. (ein Beispiel unter vielen: facebooks Redux Data-Store-Modell)
+
+Dieser Hintergrund, dieses Rückenmark, warum nicht sowas haben für politische Entscheidungsfindung?
+
+- also, warum nicht *EINEN* Plan machen? (= *ein* Datenmodell [1DM] oder auch: *eine* zentrale Autorität, *one* central authority [1CA])
+  - nennen wir ihn doch: [](world-wide-wished-for-things.md) (weltweit-gewünschte-Dinge, schließlich sind Menschen überall auf der Erde prinzipiell gleich: sie werden geboren, gedeihen mehr oder weniger in einer gewissen Kultur und sterben irgendwann)
+  - das wirkliche Problem unserer Welt: *zu viele zentrale Autoritäten* (too many Central Authoritie-s: too many CAs), das sind Nationen und andere Spieler, ohne großen Anreiz oder Willen zu viel Macht an *eine* zentrale Autorität (1CA) abzugeben
+    - auf 1CA zuzusteuern und gleichzeitig die Nationen und dortigen Menschen stolz und glücklich zu behalten, das ist die logische Lösung des Zu-viele-Autoritäten-Problems (too-many-CAs)
+- sodann: wichtige Ziele des Plans implementieren, Feedback sammeln, Plan optimieren
+  - und das immer wieder, bis wir ein Paradies errungen haben

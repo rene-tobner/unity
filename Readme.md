@@ -1,48 +1,66 @@
 René Tobner, philosopher of reflection
 
+german version: [](Readme-de.md)
+
 # How to unite and manage the world by a natural/logical religion
 
-No other re-ligion (= back-binding [one etymological analysis] to some ideas to rely on for humans) is necessary for a society, but only reasoned about principles: reflection, symmetry, cooperative construction (by too many CAs -> 1CA).
+abstract
 
-Evolved religions like Christianity also abide to following principles. Their followers do reflect about the world, they are in search of beauty (symmetry), they try to establish one text as core of their religion. Uncovering an abstract core of every human society is our goal here for the betterment of education and world management. (Respect for every evolved religion is granted, but having different people adhering to different religions is not a good way to start thinking about a unity of humanity -- despite the potential of tolerance in various religions. ) 
+No other re-ligion (lit. "back-binding" [one etymological analysis of the word /religion/] to some ideas to rely on for humans) is necessary for a society, but only reasoned about principles: reflection, symmetry, cooperative construction (by too many CAs -> 1CA).
 
+Evolved religions like Christianity also abide to following principles. Their followers do:
+1. think/reflect about the world (our thinking: one instance of reflection)
+2. they are in search of beauty, of beautiful/good actions/deeds (symmetry [1])
+3. they try to establish one text, one book, as core of their religion.
+
+[1] Seems like rather a far fetched argument, but who is not in search of beauty? The necessary association of beauty with symmetry anyhow is clearly shown in arts education about proportions, geometries of the human face or body. Good deeds and mutual respect/reciprocity of citizens, showing off characteristics of symmetry, too?!
+
+Uncovering an abstract core of every human religion is our goal here for the betterment of education and world management. (Respect for every evolved religion is granted, but having different people adhering to different religions is not a good way to start thinking about a unity of humanity -- despite the potential of tolerance in various religions.)
+
+The priciples reflection, symmtetry, and cooperative construction are elaborated below.
  
 ## Natural principles
-cf. reflexivity, symmetry here (math is natural): https://en.wikipedia.org/wiki/Equivalence_relation
+Also compare reflexivity, symmetry in the so called [equivalence relations](https://en.wikipedia.org/wiki/Equivalence_relation). Math is natural!
 
-### the MIND and its reflection (also see below /human event machine/)
-- reflection as most basic principle in nature (including ourselves: one thought coming around in the human event machine: MANY PEOPLE DON'T KNOW THIS!) including physics: double slit experiment etc.
+### 1. The MIND (our neural net in the brain) and its reflection (also see below /human event machine/)
+- reflection as most basic, *the first*, principle in the universe (including ourselves: one thought coming around in the human event machine, active and passive, inner judgements and outer perception respectively; including physics: double slit experiment and an reflecting observer changing the outcome of the experiment; the sun and the objects' reflection by its enlightening effect: objects of different colour in our perception)
   - unfolding education from here:
     - WHAT DOES THAT MEAN?
-      - how much more simple is education with knowledge of math and logic arising out of reflection? (encodings in lambda calculus) Remains to be seen, but the ones in charge of producing teachers at university, i.e. professors, should be way less confused.
+      - How much more simple is education with knowledge of math and logic arising out of reflection? (reflection equals the identity function in lambda calculus; lambda calculus can encode math [origin in counting: Y-combinator -> recursion -> Peano numbers -> counting in general -> addition/subtraction etc.] and logic)
+        - It remains to be seen, but the ones in charge of producing teachers at university, i.e. professors, should be way less confused. One single root of natural sciences and humanities: reflection.
       - LESS CONFUSION at the core of education
-- AIMING at X (so wie man mit den Augen etwas fokussiert, so fokussiert/zielt auch der Geist, das Gehirn)
-- having the identity: f(x) = x + some JUDGEMENT (is it worth to continue aiming at X, or: keeping it in mind as a valid fact?):
-  -     Is X attractive? Ok, go for it, I want to have this beautiful thing, person etc.
+- AIMING with the mind at X (analogy: focussing with the eyes, somewhat like focussing/aiming with the mind)
+- having the identity in mind by thinking or perception: f(x) = x; + some JUDGEMENT (is it worth to continue aiming at X? Or: keeping it in mind as a valid fact?):
+  -     Is X attractive? Ok, go for it, I want to have this beautiful thing, thought, person etc.
   - or: Is X a valid fact making sense with other facts I collected in my memory?
     - Yes, well done brain! (beauty,   no doubt)
     - No? Confusion!        (ugliness,    doubt)
 
 ### the BODY in symmetry
-The next more complicated natural principle after reflection is symmetry, observable in many natural phaenomena, too. (e.g. snowflakes under microscope, animals and their symmetric axis)
+The next more complicated natural principle after reflection is symmetry, observable in many natural phaenomena, too. (e.g. snowflakes under microscope, animals and their body symmetry)
 - bestform of animals in general means to be fully symmetric
+  - non-human animals are prone to more agility than human animals (agility of cats e.g.); muscle activation while being on four feet vs. upright carriage of humans
 - practicing symmetry: same action, both sides
 
 
-## Cultural principle 
+## Cultural Principle
 
-### Cooperative construction in 1CA
+### 3. Cooperative construction in 1CA
 
-What kind of principles can we rely while living/working together? /Natural/ principles like the ones above are impossible to apply, we are in the realm of /culture/, we need to govern it somehow.
+What kind of principles can we rely while living/working etc. together? /Natural/ principles like the ones above are impossible to apply; we are in the realm of /culture/, we need to govern it somehow.
 
 What's the best way to govern?
 
-Our world got so complicated, so many nations evolving, so many attempts makings sense of people's characters, viewpoints... (it's not only about religions). 
+Our world got so complicated, so many nations evolving, so many attempts makings sense of people's characters, viewpoints... (it's not only about religions -- all these means of making sense which reach out to us: parents, friends, school, literature, media...)
 
-- let's make one plan (= one data model [1DM] or  one central authority [1CA])
-  - let's call it: [[./world-wide-wished-for-things.org]] (humans after all are basically the same everywhere)
-  - the real problem in the world: *too many CAs* of nations and other players, not willing to give in to one CA
-    - moving to 1CA while keeping nations/ppl proud/happy is the logical conclusion of the *too many CAs* problem
+One needs simplicity in order to master the complexity of our world. Software architects rely on *ONE* data model in the background to make complex user interfaces work. (See facebook's Redux data store model among MANY other examples e.g.)
+
+This background, this backbone, why not have it for political decision making?
+
+- so, why not make one plan (= one data model [1DM] or one central authority [1CA])
+  - let's call it: [](world-wide-wished-for-things.md) (humans after all are basically the same everywhere: they are born, they flourish more or less in a given culture, and die one day)
+  - the real problem in the world: *too many CAs* of nations and other players, not willing to give in to one CA (1CA)
+    - moving to 1CA while keeping nations, people there proud/happy is the logical conclusion of the *too many CAs* problem
 - then implement some important goals of this plan, gather feedback, optimize the plan
   - rinse and repeat to have some paradise won in time
 
