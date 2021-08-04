@@ -2,6 +2,7 @@ René Tobner, Philosoph der Reflexion
 
 englische Version: [Readme.md](Readme.md)
 
+# Geistes- und Naturwissenschaften vereinen mittels des Reflexionsprinzips
 # Die Welt vereinen und administrieren durch eine natürliche/logische Religion
 
 Zusammenfassung/abstract
