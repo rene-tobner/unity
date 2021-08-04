@@ -1,3 +1,6 @@
+Natürliche und logische Einheit zur Entfaltung
+==============================================
+
 René Tobner, Philosoph der Reflexion
 
 englische Version: [Readme.md](Readme.md)
