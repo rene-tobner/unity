@@ -1,6 +1,6 @@
 René Tobner, philosopher of reflection
 
-german version: [](Readme-de.md)
+german version: [Readme-de.md](Readme-de.md)
 
 # How to unite and manage the world by a natural/logical religion
 
