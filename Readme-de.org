@@ -9,6 +9,11 @@ Englische Version: [[Readme.org]]
 Mathematik in der Natur: die Fibonacci-Sequenz und Sonnenblumensamen
 
 * Geistes- und Naturwissenschaften vereinen mittels des Reflexionsprinzips
+#+BEGIN_SRC
+Alles beginnt mit der Reflexion, ob nun Natur- oder Geisteswissenschaft!
+#+END_SRC
+Siehe unten: 1. Prinzip.
+
 * Die Welt vereinen und administrieren durch eine natürliche/logische Religion
 
 Zusammenfassung/abstract
