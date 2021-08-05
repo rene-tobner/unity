@@ -27,7 +27,7 @@ Einen abstrakten Kern einer jeden menschlichen Religion herauszustellen ist unse
 
 Im folgenden werden die Prinzipien Reflexion, Symmetrie und Kooperative Konstruktion präzisiert.
 
-## Natürliche Prinzipien
+** Natürliche Prinzipien
 Man vergleiche auch die Reflexivität sowie Symmetrie, die sich in mathematischen [[https://de.wikipedia.org/wiki/%25C3%2584quivalenzrelation][Äquivalenzrelationen (https://de.wikipedia.org/wiki/Äquivalenzrelation)]] wiederfinden. Mathematik ist natürlich!
 
 *** 1. Der Geist (unser neuronales Netz im Gehirn) und seine Reflektion (TODO: siehe auch unten: menschliche Ereignismaschine)
