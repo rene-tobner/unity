@@ -2,22 +2,15 @@
 - work will be done with Gitlab software, awaiting neutral server and replicatable setup (it must be done safely, only relying on Github or similar services is not enough)
   - not safe enough, too (replicated setup of maintainers, issues etc.), just for now to spread responsibility
 ** INFO Why and how world-wide wished for things?
-The plan can be done (what else to fight for? if not order and leisure in the world), but...(this kind of transitioning is too hard to think of, I know, but I once wrote "this was the beginning of this century [and all experience before was only some beautiful or ugly disctruction/disorder and flourishing again], but what will be the end of this century be like, 2200 AD?"; making progress with order AND research [I very useful for research, fast communication])
+The plan can be done (what else to fight for? if not order and leisure in the world), but...(this kind of transitioning is too hard to think of, I know, but I once wrote "this was the beginning of this century [and all experience before was only some beautiful or ugly disctruction/disorder and flourishing again], but what will be the end of this century be like, 2200 AD?"; making progress with order AND research)
 
-How to have a real world feedback loop NOT ONLY WITH ME?? Just in the internet/web. Anyone can voice issues via "issues". And, maintainers, ppl who try to weigh arguments to optimize the construction via world-wide-wished-things and decide what's in what's not, SHOULD BE MANY, having the principle of neutrality (reason, logic, cultural [gender] equality) in mind! (even if many more ppl having my SSH keys {digital cryptographic keys to manage this repository}, how to avoid edit war? [not speaking about the identity of the philosopher of reflection, but finding consent by objectivity, neutrality in our yet so fragile "community" -- optimizing everything, a very IMPERSONAL view: and it only makes sense this way if we think about managing humanity in general?)
+How to have a real world feedback loop NOT ONLY WITH ME?? Just in the internet/web. Anyone can voice issues via "issues". And, maintainers, people who try to weigh arguments to optimize the construction via world-wide-wished-things and decide what's in what's not, SHOULD BE MANY, having the principle of neutrality (reason, logic, cultural [gender] equality) in mind! (even if many more people having my SSH keys {digital cryptographic keys to manage this repository}, how else to avoid edit war? [not speaking about the identity of the philosopher of reflection, but finding consent by objectivity, neutrality in our yet so fragile "community" -- optimizing everything, a very IMPERSONAL view: and it only makes sense this way if we think about managing humanity in general?)
 
-Github or other services are not enough -- everything should open source. Specialized domain and website will be available soon!
+Github or other services are not enough -- everything should open source. Specialized domain and website is necessaray, decentralized?!
 
-Ppl in want of ending austerity, some political effort is necessary, but somehow it can be spread pretty easily, right?
+People in want of ending austerity, some political effort is necessary, but somehow it can be spread pretty easily, right?
 
 - It's so huge? But it's only this planet in the known universe. But reflection is everywhere, suns, solar systems, ...
-
-[[./img/yin-yang-tree.jpg]]
-(need to buy this at https://www.123rf.com/photo_94141168_stock-vector-yin-yang-tree.html)
-
-* INFO Philosophenköniginnen und -könige sind erwünscht
-- philo-sophy = loving-wisdom (die Weisheit lieben, aus Fehlern lernen, und darüber zu kommunizieren, über Fehler, ist so schwer, insbesondere in direkter Anrede, aber ein Text...)
-
 * TODO IN GENERAL: a functional state for functional citizens
 
 - world-wide poltical agenda: native sustainable workers of a sustainable capitalistic economy, i.e. not going bankrupt every 10-20 years or so
@@ -63,11 +56,6 @@ Ppl in want of ending austerity, some political effort is necessary, but somehow
        - other peoples under distress
          - ex-Jugoslavia: maybe reunion possible?
          - Krim? Should be ok to stay with Russia (just to have at least this thing clear?!)
-* WAT?! peace of mind & health & security
-** WAITING unhealthy nourishment w/o an adequate health practice
-- gluten is very prone to produce head muscle sclerosis (Muskelverkalkung)
-  - BUT: Rinsing/Durchspülen is the remedy to various forms of sclerosis in general
-    - head first rinsing by sitting and lying down, walking it in, have trust in swing: to train this practice...
 * INFO public infrastructure vs. private business / both necessary
 - freedom of browsers vs. monetization
   - via ads (adblockers pain in the ass for enterprises promoting some product)
