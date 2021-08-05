@@ -65,7 +65,7 @@ One needs simplicity in order to master the complexity of our world. Software ar
 This background, this backbone, why not have it for political decision making?
 
 - so, why not make one plan (= one data model [1DM] or one central authority [1CA])
-  - let's call it: [](world-wide-wished-for-things.md) (humans after all are basically the same everywhere: they are born, they flourish more or less in a given culture, and die one day)
+  - let's call it: [[world-wide-wished-for-things.org]] (humans after all are basically the same everywhere: they are born, they flourish more or less in a given culture, and die one day)
   - the real problem in the world: *too many CAs* of nations and other players, not willing to give in to one CA (1CA)
     - moving to 1CA while keeping nations, people there proud/happy is the logical conclusion of the *too many CAs* problem
 - then implement some important goals of this plan, gather feedback, optimize the plan

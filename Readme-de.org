@@ -67,7 +67,7 @@ Man braucht Einfachheit/Simplizität, um Komplexität zu meistern. Software Arch
 Dieser Hintergrund, dieses Rückenmark, warum nicht sowas haben für politische Entscheidungsfindung?
 
 - also, warum nicht *EINEN* Plan machen? (= *ein* Datenmodell [1DM] oder auch: *eine* zentrale Autorität, *one* central authority [1CA])
-  - nennen wir ihn doch: [](world-wide-wished-for-things.md) (weltweit-gewünschte-Dinge, schließlich sind Menschen überall auf der Erde prinzipiell gleich: sie werden geboren, gedeihen mehr oder weniger in einer gewissen Kultur und sterben irgendwann)
+  - nennen wir ihn doch: [[world-wide-wished-for-things.org]] (weltweit-gewünschte-Dinge, schließlich sind Menschen überall auf der Erde prinzipiell gleich: sie werden geboren, gedeihen mehr oder weniger in einer gewissen Kultur und sterben irgendwann)
   - das wirkliche Problem unserer Welt: *zu viele zentrale Autoritäten* (too many Central Authoritie-s: too many CAs), das sind Nationen und andere Spieler, ohne großen Anreiz oder Willen zu viel Macht an *eine* zentrale Autorität (1CA) abzugeben
     - auf 1CA zuzusteuern und gleichzeitig die Nationen und dortigen Menschen stolz und glücklich zu behalten, das ist die logische Lösung des Zu-viele-Autoritäten-Problems (too-many-CAs)
 - sodann: wichtige Ziele des Plans implementieren, Feedback sammeln, Plan optimieren
