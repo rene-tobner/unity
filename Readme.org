@@ -38,7 +38,7 @@ Also compare reflexivity, symmetry in the so called [[ https://en.wikipedia.org/
 - reflection as most basic, *the first*, principle in the universe (including ourselves: one thought coming around in the human event machine, active and passive, inner judgements and outer perception respectively; including physics: double slit experiment and an reflecting observer changing the outcome of the experiment; the sun and the objects' reflection by its enlightening effect: objects of different colour in our perception)
   - unfolding education from here:
     - WHAT DOES THAT MEAN?
-      - How much more simple is education with knowledge of math and logic arising out of reflection? (reflection equals the identity function in lambda calculus; lambda calculus can encode math [origin in counting: Y-combinator -> recursion -> Peano numbers -> counting in general -> addition/subtraction etc.] and logic)
+      - How much more simple is education with knowledge of math and logic arising out of reflection? (reflection equals the identity function in lambda calculus; lambda calculus can encode math [math's foundation/origin in counting: Y-combinator -> recursion -> Peano numbers -> counting in general -> addition/subtraction etc.] and logic)
         - It remains to be seen, but the ones in charge of producing teachers at university, i.e. professors, should be way less confused. One single root of natural sciences and humanities: reflection.
       - LESS CONFUSION at the core of education
 - AIMING with the mind at X (analogy: focussing with the eyes, somewhat like focussing/aiming with the mind)
