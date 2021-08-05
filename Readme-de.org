@@ -30,7 +30,7 @@ Im folgenden werden die Prinzipien Reflexion, Symmetrie und Kooperative Konstruk
 ** Natürliche Prinzipien
 Man vergleiche auch die Reflexivität sowie Symmetrie, die sich in mathematischen [[https://de.wikipedia.org/wiki/%25C3%2584quivalenzrelation][Äquivalenzrelationen (https://de.wikipedia.org/wiki/Äquivalenzrelation)]] wiederfinden. Mathematik ist natürlich!
 
-*** 1. Der Geist (unser neuronales Netz im Gehirn) und seine Reflektion (TODO: siehe auch unten: menschliche Ereignismaschine)
+*** 1. Prinzip: Der Geist (unser neuronales Netz im Gehirn) und seine Reflektion (TODO: siehe auch unten: menschliche Ereignismaschine)
 
 - Reflexion als *erstes* Prinzip des Universums (in uns: ein Gedanke in unserem Denkapparat wird gedacht, die menschliche Ereignismaschine, aktiv und passiv, Urteile und äußere Perzeption/Wahrnehmung respektive; in der Physik: das Doppelspalt-Experiment und eine reflektierender Beobachter; die Sonne und die Reflexion der Objekte auf ihre Lichtwirkung: unterschiedliche Farben verschiedener Objekte in unserer Wahrnehmung)
   - die Bildung von hier aus zu entfalten:
@@ -45,7 +45,7 @@ Man vergleiche auch die Reflexivität sowie Symmetrie, die sich in mathematische
     - Ja, super gemacht Hirn! (Schönheit,    kein Zweifel)
     - Nein? Verwirrung!       (Hässlichkeit,      Zweifel)
 
-*** 2. Der Körper in Symmetrie
+*** 2. Prinzip: Der Körper in Symmetrie
 Das auf die Reflexion folgende, kompliziertere Prinzip, das ist die Symmetrie, ebenfalls beobachtbar in vielen natürlichen Phänomenen. (Zum Beispiel: Schneeflocken unter dem Mikroskop, Tiere and ihre Körper-Symmetrie)
 - die Bestform von Tieren im Allgemeine bedeutet vollkommen symmetrisch zu sein
   - nicht-menschliche Tiere sind meistens weitaus agiler als menschliche Tiere (Agilität von Katzen z.B.); Muskelaktivierung im Vierfüßlergang vs. der aufrechte Gang der Menschen
@@ -53,7 +53,7 @@ Das auf die Reflexion folgende, kompliziertere Prinzip, das ist die Symmetrie, e
 
 ** Kulturelles Prinzip
 
-*** 3. Kooperative Konstruktion in einer zentralen Autorität (one central authority = 1CA)
+*** 3. Prinzip: Kooperative Konstruktion in einer zentralen Autorität (one central authority = 1CA)
 
 Welche Prinzipien können uns zur Verfügung stehen, während wir zusammen leben/arbeiten etc.? /Natürliche/ Prinzipien, wie jene oben, sind unmöglich anzuwenden; wir sind im Reiche der /Kultur/, wir müssen dies irgendwie regieren.
 
