@@ -2,10 +2,11 @@
 
 René Tobner, Philosoph der Reflexion
 
-englische Version: [[Readme.org]]
+Englische Version: [[Readme.org]]
 
-#+CAPTION: Mathematik in der Natur: die Fibonacci-Sequenz und Sonnenblumensamen
 [[./assets/img/sunflower.jpg]]
+
+Mathematik in der Natur: die Fibonacci-Sequenz und Sonnenblumensamen
 
 * Geistes- und Naturwissenschaften vereinen mittels des Reflexionsprinzips
 * Die Welt vereinen und administrieren durch eine natürliche/logische Religion

@@ -4,8 +4,9 @@ René Tobner, philosopher of reflection
 
 german version: [[Readme-de.org]]
 
-#+CAPTION: Math in nature: the Fibonacci-Sequenz and sunflower seeds
 [[./assets/img/sunflower.jpg]]
+
+Math in nature: the Fibonacci-Sequenz and sunflower seeds
 
 * Uniting humanities and natural sciences by the principle of reflection
 * How to unite and manage the world by a natural/logical religion
