@@ -1,12 +1,14 @@
-Natural and logical unity to unfold from
-========================================
+#+Title: Natural and logical unity to unfold from
 
 René Tobner, philosopher of reflection
 
-german version: [Readme-de.md](Readme-de.md)
+german version: [[Readme-de.org]]
 
-# Uniting humanities and natural sciences by the principle of reflection
-# How to unite and manage the world by a natural/logical religion
+Math in nature: the Fibonacci-Sequenz and sunflower seeds:
+[[assets/img/sunflower.jpg]]
+
+* Uniting humanities and natural sciences by the principle of reflection
+* How to unite and manage the world by a natural/logical religion
 
 abstract
 
@@ -14,19 +16,19 @@ No other re-ligion (lit. "back-binding" [one etymological analysis of the word /
 
 Evolved religions like Christianity also abide to following principles. Their followers do:
 1. think/reflect about the world (our thinking: one instance of reflection)
-2. they are in search of beauty, of beautiful/good actions/deeds (symmetry [1])
+2. they are in search of beauty, of beautiful/good actions/deeds (symmetry (*1))
 3. they try to establish one text, one book, as core of their religion.
 
-[1] Seems like rather a far fetched argument, but who is not in search of beauty? The necessary association of beauty with symmetry anyhow is clearly shown in arts education about proportions, geometries of the human face or body. Good deeds and mutual respect/reciprocity of citizens, showing off characteristics of symmetry, too?!
+(*1) Seems like rather a far fetched argument, but who is not in search of beauty? The necessary association of beauty with symmetry anyhow is clearly shown in arts education about proportions, geometries of the human face or body. Good deeds and mutual respect/reciprocity of citizens, showing off characteristics of symmetry, too?!
 
 Uncovering an abstract core of every human religion is our goal here for the betterment of education and world management. (Respect for every evolved religion is granted, but having different people adhering to different religions is not a good way to start thinking about a unity of humanity -- despite the potential of tolerance in various religions.)
 
 The priciples reflection, symmtetry, and cooperative construction are elaborated below.
  
-## Natural principles
-Also compare reflexivity, symmetry in the so called [equivalence relations: https://en.wikipedia.org/wiki/Equivalence_relation](https://en.wikipedia.org/wiki/Equivalence_relation). Math is natural!
+** Natural principles
+Also compare reflexivity, symmetry in the so called [[ https://en.wikipedia.org/wiki/Equivalence_relation][equivalence relations: https://en.wikipedia.org/wiki/Equivalence_relation]]. Math is natural!
 
-### 1. The MIND (our neural net in the brain) and its reflection (also see below /human event machine/)
+*** 1. The MIND (our neural net in the brain) and its reflection (also see below /human event machine/)
 - reflection as most basic, *the first*, principle in the universe (including ourselves: one thought coming around in the human event machine, active and passive, inner judgements and outer perception respectively; including physics: double slit experiment and an reflecting observer changing the outcome of the experiment; the sun and the objects' reflection by its enlightening effect: objects of different colour in our perception)
   - unfolding education from here:
     - WHAT DOES THAT MEAN?
@@ -40,16 +42,16 @@ Also compare reflexivity, symmetry in the so called [equivalence relations: http
     - Yes, well done brain! (beauty,   no doubt)
     - No? Confusion!        (ugliness,    doubt)
 
-### the BODY in symmetry
+*** the BODY in symmetry
 The next more complicated natural principle after reflection is symmetry, observable in many natural phaenomena, too. (e.g. snowflakes under microscope, animals and their body symmetry)
 - bestform of animals in general means to be fully symmetric
   - non-human animals are prone to more agility than human animals (agility of cats e.g.); muscle activation while being on four feet vs. upright carriage of humans
 - practicing symmetry: same action, both sides
 
 
-## Cultural Principle
+** Cultural Principle
 
-### 3. Cooperative construction in 1CA
+*** 3. Cooperative construction in 1CA
 
 What kind of principles can we rely while living/working etc. together? /Natural/ principles like the ones above are impossible to apply; we are in the realm of /culture/, we need to govern it somehow.
 
@@ -69,7 +71,7 @@ This background, this backbone, why not have it for political decision making?
   - rinse and repeat to have some paradise won in time
 
 
-### Notes on "Was ist der Mensch?" / what is a human being?
+*** Notes on "Was ist der Mensch?" / what is a human being?
 
 ** evolutionary big picture vs. own bio record/career/wrong and right actions in bio record
 Seeing yourself as a result of evolution, random development of animals on this our earth, with humans as a kind of animal developing very sophisticated languages -- instead of being only your biographical record of family, friends, and foes.
