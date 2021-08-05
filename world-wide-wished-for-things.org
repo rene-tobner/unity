@@ -1,6 +1,5 @@
 * INFO Maintaining/improving this file with others
 - work will be done with Gitlab software, awaiting neutral server and replicatable setup (it must be done safely, only relying on Github or similar services is not enough)
-- one mirror for now: https://gitlab.com/wissens-werker/construct
   - not safe enough, too (replicated setup of maintainers, issues etc.), just for now to spread responsibility
 ** INFO Why and how world-wide wished for things?
 The plan can be done (what else to fight for? if not order and leisure in the world), but...(this kind of transitioning is too hard to think of, I know, but I once wrote "this was the beginning of this century [and all experience before was only some beautiful or ugly disctruction/disorder and flourishing again], but what will be the end of this century be like, 2200 AD?"; making progress with order AND research [I very useful for research, fast communication])
