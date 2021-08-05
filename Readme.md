@@ -24,7 +24,7 @@ Uncovering an abstract core of every human religion is our goal here for the bet
 The priciples reflection, symmtetry, and cooperative construction are elaborated below.
  
 ## Natural principles
-Also compare reflexivity, symmetry in the so called [equivalence relations](https://en.wikipedia.org/wiki/Equivalence_relation). Math is natural!
+Also compare reflexivity, symmetry in the so called [equivalence relations: https://en.wikipedia.org/wiki/Equivalence_relation](https://en.wikipedia.org/wiki/Equivalence_relation). Math is natural!
 
 ### 1. The MIND (our neural net in the brain) and its reflection (also see below /human event machine/)
 - reflection as most basic, *the first*, principle in the universe (including ourselves: one thought coming around in the human event machine, active and passive, inner judgements and outer perception respectively; including physics: double slit experiment and an reflecting observer changing the outcome of the experiment; the sun and the objects' reflection by its enlightening effect: objects of different colour in our perception)

@@ -26,19 +26,19 @@ Einen abstrakten Kern einer jeden menschlichen Religion herauszustellen ist unse
 Im folgenden werden die Prinzipien Reflexion, Symmetrie und Kooperative Konstruktion präzisiert.
 
 ## Natürliche Prinzipien
-Man vergleiche auch die Reflexivität sowie Symmetrie, die sich in mathematischen [Äquivalenzrelationen](https://en.wikipedia.org/wiki/Equivalence_relation) wiederfinden. Mathematik ist natürlich!
+Man vergleiche auch die Reflexivität sowie Symmetrie, die sich in mathematischen [Äquivalenzrelationen: https://de.wikipedia.org/wiki/Äquivalenzrelation](https://de.wikipedia.org/wiki/%C3%84quivalenzrelation) wiederfinden. Mathematik ist natürlich!
 
 ### 1. Der Geist (unser neuronales Netz im Gehirn) und seine Reflektion (TODO: siehe auch unten: menschliche Ereignismaschine)
 
 - Reflexion als *erstes* Prinzip des Universums (in uns: ein Gedanke in unserem Denkapparat wird gedacht, die menschliche Ereignismaschine, aktiv und passiv, Urteile und äußere Perzeption/Wahrnehmung respektive; in der Physik: das Doppelspalt-Experiment und eine reflektierender Beobachter; die Sonne und die Reflexion der Objekte auf ihre Lichtwirkung: unterschiedliche Farben verschiedener Objekte in unserer Wahrnehmung)
   - die Bildung von hier aus zu entfalten:
     - WAS KANN DAS BEDEUTEN?
-      - Wieviel simpler wird Bildung mit dem Wissen, dass Mathematik und Logik sich aus unserer Kapazität der Reflexion ergeben? (Reflexion ist gleich der Identitäts-Funkton im Lambda-Kalkulus; Lambda-Kalkulus kann Mathematik [Ursprung im Zählen: Y-Kombinator -> Rekursion -> Peano-Zahlen -> das Zählen allgmein gefasst -> Addition/Subtraktion etc.] und Logik encodieren)
+      - Wieviel simpler wird Bildung mit dem Wissen, dass Mathematik und Logik sich aus unserer Kapazität der Reflexion ergeben? (Reflexion ist gleich der Identitäts-Funkton im Lambda-Kalkulus, Reflexion als Abbild[ung]; Lambda-Kalkulus kann Mathematik [Ursprung im Zählen: Y-Kombinator -> Rekursion -> Peano-Zahlen -> das Zählen allgmein gefasst -> Addition/Subtraktion etc.] und Logik encodieren)
         - Das wird sich noch herausstellen, aber jene an den Universitäten, deren Aufgabe die Ausbildung von Lehrern ist, sollten weitaus weniger in Erklärungsnöte geraten. Alles beginnt mit der Reflexion, ob nun Natur- oder Geisteswissenschaft!
         - WENIGER VERWIRRUNG IM HERZEN DER BILDUNG
 - ZIELEN mit dem Geist auf X (Analogie: so wie man mit den Augen etwas fokussiert, so fokussiert/zielt auch der Geist)
 - die Identität im Geist zu haben per Denken oder per Wahrnehmung: f(x) = x; + ein URTEIL (ist es es wert, fortwährend auf X zu zielen? Oder: im Geiste bei X zu verweilen, weitere Urteile dazu zu bilden, ist es ein valides Faktum?)
-  -       Ist X attraktiv? Ok, dann mal los, ich will dieses schöne Ding, diesen Gedanken, dieser Person etc.
+  - Ist X attraktiv? Ok, dann mal los, ich will dieses schöne Ding, diesen Gedanken, dieser Person etc.
   - Oder: Ist X ein valides Faktum, dass Sinn macht mit anderen Fakten, die ich gesammelt habe in meinem Gedächtnis?
     - Ja, super gemacht Hirn! (Schönheit,    kein Zweifel)
     - Nein? Verwirrung!       (Hässlichkeit,      Zweifel)
