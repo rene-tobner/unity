@@ -13,18 +13,18 @@ Math in nature: the Fibonacci-Sequenz and sunflower seeds
 
 abstract
 
-No other re-ligion (lit. "back-binding" [one etymological analysis of the word /religion/] to some ideas to rely on for humans) is necessary for a society, but only reasoned about principles: reflection, symmetry, cooperative construction (by too many CAs -> 1CA).
+No other re-ligion (lit. "back-binding" [one etymological analysis of the word /religion/] to some ideas to rely on for humans) is necessary for a society, but only reasoned about principles (prin-ciple: the thing to grasp first , primus+capere): reflection, symmetry, cooperative construction (by too many Central Authorities [too-many-CAs] -> only 1 Central Authority [1CA]; see Cultural Principle below).
 
 Evolved religions like Christianity also abide to following principles. Their followers do:
 1. think/reflect about the world (our thinking: one instance of reflection)
-2. they are in search of beauty, of beautiful/good actions/deeds (symmetry (*1))
-3. they try to establish one text, one book, as core of their religion.
+2. they are in search of beauty, of beautiful/good actions/deeds (symmetry (*1)) to form a sustainable society
+3. they try to establish one text, one book, as core of their religion: an instance of a CA (among other religions with their corresponding CAs)
 
 (*1) Seems like rather a far fetched argument, but who is not in search of beauty? The necessary association of beauty with symmetry anyhow is clearly shown in arts education about proportions, geometries of the human face or body. Good deeds and mutual respect/reciprocity of citizens, showing off characteristics of symmetry, too?!
 
 Uncovering an abstract core of every human religion is our goal here for the betterment of education and world management. (Respect for every evolved religion is granted, but having different people adhering to different religions is not a good way to start thinking about a unity of humanity -- despite the potential of tolerance in various religions.)
 
-The priciples reflection, symmtetry, and cooperative construction are elaborated below.
+The priciples reflection, symmetry, and cooperative construction are elaborated below.
  
 ** Natural principles
 Also compare reflexivity, symmetry in the so called [[ https://en.wikipedia.org/wiki/Equivalence_relation][equivalence relations: https://en.wikipedia.org/wiki/Equivalence_relation]]. Math is natural!
@@ -71,7 +71,7 @@ This background, this backbone, why not have it for political decision making?
 - then implement some important goals of this plan, gather feedback, optimize the plan
   - rinse and repeat to have some paradise won in time
 
-
+    
 * Notes on "Was ist der Mensch?" / what is a human being?
 
 ** evolutionary big picture vs. own bio record/career/wrong and right actions in bio record
