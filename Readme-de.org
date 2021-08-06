@@ -4,6 +4,9 @@ René Tobner, Philosoph der Reflexion
 
 Englische Version: [[Readme.org]]
 
+* Problem / Lösung
+Unsere Welt ist zu kompliziert. Was können wir wirklich wissen? Wo beginnt unser Wissen? Was können wir erhoffen? Und, unter welchen Umständen? Die Lösung folgt in den nächsten Abschnitten: zwei natürliche Prinzipien, ein kulturelles.
+
 [[./assets/img/sunflower.jpg]]
 
 Mathematik in der Natur: die Fibonacci-Sequenz und Sonnenblumensamen

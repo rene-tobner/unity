@@ -4,9 +4,12 @@ René Tobner, philosopher of reflection
 
 german version: [[Readme-de.org]]
 
+* Problem / Solution
+Our world is too complex. What can we really know? Where does our knowledge begin? What can we hope for? And, under what circumstances? The solution is below: two natural principles, one cultural.
+
 [[./assets/img/sunflower.jpg]]
 
-Math in nature: the Fibonacci-Sequenz and sunflower seeds
+math in nature: the Fibonacci sequence and sunflower seeds
 
 * Uniting humanities and natural sciences by the principle of reflection
 #+BEGIN_SRC
