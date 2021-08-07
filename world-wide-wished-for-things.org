@@ -295,7 +295,7 @@ Meritokratie und Technokratie hand in hand
     - to doubt and the possibility of AI: computational evaluation strategy: laziness = to doubt = withhold judgement = Isosthenie
       - Grammatical Framework is evaluating like its host language Haskell lazily (non-strict)
         - nat. lang. and AI: exploring things here?
-
+- https://www.livescience.com/artificial-neurons-memories.html
 ** digital classroom
 - HPI Schul-cloud and other solutions? 
 ** TODO sexual education
