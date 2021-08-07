@@ -4,8 +4,13 @@ René Tobner, philosopher of reflection
 
 german version: [[Readme-de.org]]
 
+spanish version: ???
+french  version: ???
+
 * Problem / Solution
 Our world is too complex. What can we really know? Where does our knowledge begin? What can we hope for? And, under what circumstances? The solution is below: two natural principles, one cultural.
+
+The cultural principle: So many groups try to improve the world. Would it not be better, if one could find a common denominator first? One only had to work on one [[world-wide-wished-for-things.org][text]], best in English because this language is most easy to learn (almost no inflections of verbs and nouns) and is widely used.
 
 [[./assets/img/sunflower.jpg]]
 

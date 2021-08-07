@@ -7,6 +7,8 @@ Englische Version: [[Readme.org]]
 * Problem / Lösung
 Unsere Welt ist zu kompliziert. Was können wir wirklich wissen? Wo beginnt unser Wissen? Was können wir erhoffen? Und, unter welchen Umständen? Die Lösung folgt in den nächsten Abschnitten: zwei natürliche Prinzipien, ein kulturelles.
 
+Das kulturelle Prinzip: So viele Gruppierungen versuchen die Welt zu verbessern. Wäre es nicht besser, man käme zuerst auf einen Nenner? Man müsste nur an einem [[world-wide-wished-for-things.org][Text]] arbeiten, am besten auf Englisch, da diese Sprache am einfachsten zu lernen ist (kaum Flexionen von Verben und Nomen) und weit verbreitet ist.
+
 [[./assets/img/sunflower.jpg]]
 
 Mathematik in der Natur: die Fibonacci-Sequenz und Sonnenblumensamen
