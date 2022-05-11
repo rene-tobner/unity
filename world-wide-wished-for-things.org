@@ -1,3 +1,4 @@
+#+TODO: TODO @WORK RÜCKFRAGE WAT?! | DONE INFO WAITING
 * INFO Maintaining/improving this file with others
 - work will be done with Gitlab software, awaiting neutral server and replicatable setup (it must be done safely, only relying on Github or similar services is not enough)
   - not safe enough, too (replicated setup of maintainers, issues etc.), just for now to spread responsibility
@@ -11,6 +12,26 @@ Github or other services are not enough -- everything should open source. Specia
 People in want of ending austerity, some political effort is necessary, but somehow it can be spread pretty easily, right?
 
 - It's so huge? But it's only this planet in the known universe. But reflection is everywhere, suns, solar systems, ...
+  
+#+BEGIN_SRC
+(*) "mingle" is related to yin-yang-thinking of Daoism (yin:weak vs. yang:strong: women vs. men, cold vs. warm ...)
+
+not only: Meat    and Mingle* ( the mingling of sexes and *MINIMAL* social/cultural reason:
+
+                                BEWARE: asymmetric natural  physical (body)    strength !
+                                         symmetric cultural psychic  (mind)    strength ?
+                                           -> not   exploiting  the natural    strength
+                                           -> nicht auszunutzen die natürliche Stärke    )
+
+but also: Rinse   and Reason  (safety and alignment of body and society, not exploiting power, but [more] cooperative reasoning, planning, see rest of this file)
+
+- alignment: meet yourself and meet ourselves finally
+  - for Rinse you need energy, e.g.: rice?!! pancakes, butter, (fruit-) sugar
+  - for Reasoning on your own you need no sugar (even carbs have sugar)
+
+  - for Reasoning about our society:
+    ONE SHARED PLAN FOR THE WHOLE WORLD -> *MAXIMAZING*/optimizing social/cultural reason
+#+END_SRC
 * TODO IN GENERAL: a functional state for functional citizens
 
 - world-wide poltical agenda: native sustainable workers of a sustainable capitalistic economy, i.e. not going bankrupt every 10-20 years or so
@@ -56,6 +77,18 @@ People in want of ending austerity, some political effort is necessary, but some
        - other peoples under distress
          - ex-Jugoslavia: maybe reunion possible?
          - Krim? Should be ok to stay with Russia (just to have at least this thing clear?!)
+* TODO safety first in a functional state
+** safe passwords -- safer life (why to kill someone if you cannot get at his/her money)
+- long, random, on usb stick! but: ppl exploited this standard practice so often, what else to do? phone with some personal id: voice, thumb (moving, alive), iris (moving, alive) (all at once, pretty well testable with phones) transfer key via bluetooth etc.?!!!!
+  - sendable "heartbeat" about this authentication -> distributed database of e-government identity management of citizens
+    - no one shall get lost! police work does not make sense without it. The state and its police. Eternal succumbing of children/women, sex to offer in some basement? Who knows of this practice, why to believe in something good? Sex and money... enough ppl of status in, and it is very well fixed this business.
+  - banking
+    - TAN generator as standard
+    - phone video authentification to validate transactions (best way to validate citizens functionaliy -> "heartbeat" device)
+  - ATM (Bankautomat) and PIN is lacking safety, better like above!
+    - esp. this vs. standard alignment (labor/nuissance of upgrading all ATMs)
+  - personal data safety:
+    - merging forbidden to merge information for ordinary citizens (car licence plate -> address )
 * INFO public infrastructure vs. private business / both necessary
 - freedom of browsers vs. monetization
   - via ads (adblockers pain in the ass for enterprises promoting some product)
@@ -78,6 +111,18 @@ private vs. public tools production [economy/Ökonomie]
       - creation ex nihilo since Bretton Woods ever more
     - the "play" about the money must continue to have day to day trust in our future / to sustain ourselves with goods (Waren: Haus, Auto, Lebensmittel)
 - good parenting should be possible (time for job vs. time for family)
+* WAITING sex and society
+** interpersonal sex vs. selfsex, relationship problems and violence, prostitution profit
+- being in want of having sex and not getting it, violations of other human bodies might ensue (häusliche Gewalt, parents split off, children violated [plus: is it a topic possibly to speak about it in society? considerations of reputation block management by society -- what cannot be spoken of, cannot be managed/remedied], "it's only about sex, aha" -- to be in WANT of it)
+- selfsex as remedy, personal relaxion, relaxing interpersonal WANT of sex:
+  - men: cushion-condom sex
+    - dancing to DJanes
+  - women: dildo-mounted at wall for doggy-style insertion or similar practice
+    - dancing to DJs
+- difficulties speaking about (self-)sex vs. reputation among other humans
+  - Who will know about it? If you do not speak about. You can know it by this text. So many problems by being in WANT of sex and not getting it.
+- SO MANY PEOPLE DO NOT KNOW HOW MUCH OF A JOY SEX IS! PROSTITUTION MIGHT PROFIT, TOO!
+- PUNSENCLUBS UND LEUTE INS MESSER LAUFEN LASSEN / SLEEP AND DIE IN A BROTHEL, PROFIT, TOO!
 * INFO sex work
 - something to begin regulating
   - needs aids prevention!
