@@ -1,3 +1,4 @@
+#+TODO: TODO @WORK RÜCKFRAGE WAT?! | DONE INFO WAITING
 #+Title: Natural and logical unity to unfold from
 
 René Tobner, philosopher of reflection
@@ -7,11 +8,16 @@ german version: [[Readme-de.org]]
 spanish version: ???
 french  version: ???
 
-the plan:
+one plan finally to combat confusion, simplex first to deal with our complex society:
 no socialism
 free market
 some good governance (?)
 
+TODO have with TOC
+
+* TODO safety first in a functional state
+  possible endangerment!!!
+- heartbeat device :: continuous life sign of citizen, banking activity authenticated by video identification on phone
 * Problem / Solution
 Our world is too complex. What can we really know? Where does our knowledge begin? What can we hope for? And, under what circumstances? The solution is below: two natural principles, one cultural.
 
@@ -65,9 +71,12 @@ Also compare reflexivity, symmetry in the so called equivalence relations: [[htt
 The next more complicated natural principle after reflection is symmetry, observable in many natural phaenomena, too. (e.g. snowflakes under microscope, animals and their body symmetry)
 - bestform of animals in general means to be fully symmetric
   - non-human animals are prone to more agility than human animals (agility of cats e.g.); muscle activation while being on four feet vs. upright carriage of humans
-- practicing symmetry:
-  - head first symmetry via (sit) rinse? = the standard alignment; "being your own doctor", so much of health system superfluous
-  - same action, both sides
+- practicing symmetry (how humans can achieve bestform of animals):
+  - head first symmetry via (sit) rinse alignment = "being your own doctor" (a trick for the sick -- not feeling their body) VS. perfect muscle activation, perfect smile; a privilege, can be taken away by whom? The functional state I'd say (future music)
+  - bokken (wodden sword, making hands strong first, same action, both sides/hands)
+  - this freedom of the body, may mean a lot to find your own way in society (esp. parents' influence...?!)
+    - trust in your own body, trust in other bodies
+      - women giving birth to children: how to relax while giving birth when head muscles are locked, i.e. belly hiddenly cramped, too (remedy for incisions [Kaiserschnitt?], all the blood, the wonder of life?)
 
 
 ** The Cultural Principle
